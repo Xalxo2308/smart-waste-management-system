@@ -2,12 +2,14 @@
 
 A systems engineering project focused on designing a scalable, technology-enabled waste management solution for smart urban environments.
 
+- Demonstrates how system-level analysis can improve efficiency and decision-making in complex infrastructure environments
+  
 ## 📌 Overview
 This project demonstrates how a systems engineering approach can be used to analyse and improve complex real-world infrastructure systems.
 
 By applying structured problem-solving and system-level thinking, this project addresses inefficiencies in waste management and proposes scalable, technology-enabled solutions.
 
----
+
 
 ## 🚨 Problem Statement
 Traditional waste management systems face several challenges:

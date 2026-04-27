@@ -78,8 +78,12 @@ My key contributions include:
 This project reflects my ability to approach complex problems using structured thinking and develop practical, technology-driven solutions.
 
   📁 Reports
-📁 Diagrams
-📁 Supporting Files
+    - System_Requirements.pdf
+    - Smart_Waste_Concept_Design.pdf
+    - Waste_Collection_System_Design.pdf
+
+📁 Diagrams (optional but good)
+    - (any CLD / flow diagrams)
 
 ## 💡 Key Impact
 

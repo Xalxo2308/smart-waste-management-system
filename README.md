@@ -1,5 +1,7 @@
 # Smart Waste Management System
 
+A systems engineering project focused on designing a scalable, technology-enabled waste management solution for smart urban environments.
+
 ## 📌 Overview
 This project demonstrates how a systems engineering approach can be used to analyse and improve complex real-world infrastructure systems.
 
@@ -85,8 +87,20 @@ This project reflects my ability to approach complex problems using structured t
 📁 Diagrams (optional but good)
     - (any CLD / flow diagrams)
 
+    ## 📈 System Overview
+
+![System Overview](system_overview.png) 
+
 ## 💡 Key Impact
 
 This project demonstrates how a systems engineering approach can be used to analyse and improve real-world infrastructure challenges.
 
 By identifying inefficiencies in waste management systems and proposing technology-enabled solutions, this project highlights the role of data-driven decision making in improving operational performance and sustainability outcomes.
+
+## 🛠 Tools & Methods
+
+- Systems Engineering Methodology  
+- Causal Loop Diagrams (CLD)  
+- Requirement Analysis (Level 1, 2, 3)  
+- Process Flow & System Design Diagrams  
+- Research-based Analysis  

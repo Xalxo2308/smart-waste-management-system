@@ -1,9 +1,9 @@
 # Smart Waste Management System
 
 ## 📌 Overview
-This project focuses on designing a smart waste management system for multi-unit residential environments using a systems engineering approach.
+This project demonstrates how a systems engineering approach can be used to analyse and improve complex real-world infrastructure systems.
 
-The objective is to improve waste collection efficiency, reduce environmental impact, and support sustainable urban infrastructure.
+By applying structured problem-solving and system-level thinking, this project addresses inefficiencies in waste management and proposes scalable, technology-enabled solutions.
 
 ---
 
@@ -51,9 +51,11 @@ This project applies systems engineering principles to:
 
 ---
 
-## 🌍 Real-World Relevance
-This project aligns with modern smart city solutions where IoT and data analytics are used to optimise waste management systems.
+## 🌍 Real-World Application
 
+The approach used in this project is directly applicable to real-world smart city and infrastructure challenges, where complex systems require integration of technology, policy, and human behaviour.
+
+It reflects how data-driven and system-level analysis can improve operational efficiency, sustainability, and decision-making in large-scale environments.
 ---
 
 ## 🚀 Skills Demonstrated
@@ -63,10 +65,17 @@ This project aligns with modern smart city solutions where IoT and data analytic
 - Solution design
 - Analytical thinking
 
-  ## 👤 My Contribution
-- Led system requirements analysis
-- Developed system structure and stakeholder mapping
-- Contributed to smart bin and automation design concepts
+- ## 👤 My Contribution
+
+In this project, I applied systems engineering principles to analyse a real-world infrastructure problem and design a structured solution.
+
+My key contributions include:
+- Analysing system-level challenges in waste management within multi-unit residential environments
+- Identifying key stakeholders, system boundaries, and interdependencies
+- Contributing to the development of multi-level system requirements
+- Supporting the design of smart waste solutions including automated sorting and monitoring systems
+
+This project reflects my ability to approach complex problems using structured thinking and develop practical, technology-driven solutions.
 
   📁 Reports
 📁 Diagrams

@@ -62,3 +62,18 @@ This project aligns with modern smart city solutions where IoT and data analytic
 - Stakeholder analysis
 - Solution design
 - Analytical thinking
+
+  ## 👤 My Contribution
+- Led system requirements analysis
+- Developed system structure and stakeholder mapping
+- Contributed to smart bin and automation design concepts
+
+  📁 Reports
+📁 Diagrams
+📁 Supporting Files
+
+## 💡 Key Impact
+
+This project demonstrates how a systems engineering approach can be used to analyse and improve real-world infrastructure challenges.
+
+By identifying inefficiencies in waste management systems and proposing technology-enabled solutions, this project highlights the role of data-driven decision making in improving operational performance and sustainability outcomes.
